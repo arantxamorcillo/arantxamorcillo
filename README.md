@@ -1,4 +1,5 @@
-![enter image description here](https://media-exp1.licdn.com/dms/image/C4E16AQET1oqlPzN9sA/profile-displaybackgroundimage-shrink_200_800/0/1640002657656?e=1645660800&v=beta&t=S3gPgCJ63pP63sDyEjJya8my-ysE0NuKbW_zJddb1bg)
+
+
 ## Hello It's Arantxa 👋   
 *Junior Full-Stack Developer and UX/UI Designer*  💻   
 
